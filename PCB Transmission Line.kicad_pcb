@@ -12,6 +12,8 @@
 		(date "2025-08-12")
 		(rev "1")
 		(company "MarquezTronics")
+		(comment 1 "CERN-OHL-P-2.0 license")
+		(comment 2 "© 2025 Leonardo Marquez")
 	)
 	(layers
 		(0 "F.Cu" signal)

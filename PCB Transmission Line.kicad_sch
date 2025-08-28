@@ -9,6 +9,7 @@
 		(date "2025-08-08")
 		(rev "1")
 		(company "MarquezTronics")
+		(comment 1 "CERN-OHL-P-2.0 license")
 	)
 	(lib_symbols
 		(symbol "Marqueztronics:KH-BNC50-3511"
